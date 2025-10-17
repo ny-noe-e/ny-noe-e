@@ -24,14 +24,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ny-noe-e/ny-noe-e/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ny-noe-e/ny-noe-e/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ny-noe-e/ny-noe-e/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
