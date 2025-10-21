@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <a href="https://www.w3schools.com/css/default.asp"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <a href="https://www.w3schools.com/c/index.php"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /></a>
 </div>
 
 ###
