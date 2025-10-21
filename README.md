@@ -20,7 +20,12 @@
 
 ###
 
-<p align="center">I am a 16 year old SWE Apprentice for Google, living in Switzerland.<br>I am just now starting out my coding journey but love to learn new things and find my interests.</p>
+<p align="center">
+  - 🚀 SWE Apprentice at Google
+  - 🌍 Based in Switzerland
+  - 💻 Learning HTML, CSS, C, and more
+  - 🎯 Exploring software development and new tech
+</p>
 
 ###
 
@@ -37,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/yourprofile)
 </div>
 
 ###
