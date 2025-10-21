@@ -42,7 +42,8 @@
 ###
 
 <div align="center">
-  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/yourprofile)
+  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/noe-e-88120038b)
+
 </div>
 
 ###
