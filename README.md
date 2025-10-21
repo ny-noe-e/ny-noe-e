@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  />
+ <a href="www.linkedin.com/in/noe-e-88120038b"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  /></a>
 
 </div>
 
