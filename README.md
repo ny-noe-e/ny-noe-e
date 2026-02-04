@@ -7,7 +7,6 @@
   <img width="12" />
   <a href="https://www.w3schools.com/c/index.php"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="c logo"  /></a>
   <img width="12" />
-  <a href="https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=EMEA_en_WEST_Clion_Branded&term=clion&content=489240781091&gad_source=1&gad_campaignid=11959979214&gbraid=0AAAAADloJzgzM2F-PDWDUaQbOfz1zRGq3&gclid=Cj0KCQjwvJHIBhCgARIsAEQnWlDVNtxePrzKHA_Gp9-v8Fp2DYYxVXbmcQypQmEVH_XiYRMYBcSyeHIaAt3AEALw_wcB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
 </div>
 
 ###
