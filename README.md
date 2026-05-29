@@ -11,20 +11,9 @@
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VSCode"/>
-  </a>
   <img width="15"/>
-  <a href="https://www.w3schools.com/html/default.asp">
-    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
-  </a>
-  <img width="15"/>
-  <a href="https://www.w3schools.com/css/default.asp">
-    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS"/>
-  </a>
-  <img width="15"/>
-  <a href="https://www.w3schools.com/c/index.php">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="45" alt="C"/>
+  <a href="https://www.java.com/de/">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="95" alt="C"/>
   </a>
 </div>
 
