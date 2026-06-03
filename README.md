@@ -26,7 +26,7 @@
   
 🇨🇭 Based in Switzerland  
 🚀 Software Engineer Apprentice at Google  
-💻 Focused on HTML, CSS, C and expanding into new technologies  
+💻 Focused on Java and expanding into new technologies  
 📈 Constantly improving and building real-world projects  
 
 </div>
