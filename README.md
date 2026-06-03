@@ -7,9 +7,6 @@
 
 <br/>
 
-<!-- TECH STACK -->
-<h2 align="center">Tech Stack</h2>
-
 <div align="center">
   <img width="15"/>
   <a href="https://www.java.com/de/">
