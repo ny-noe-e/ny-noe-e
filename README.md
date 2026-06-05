@@ -27,9 +27,6 @@
 📈 Constantly improving and building real-world projects  
 
 </div>
-
-<br/>
-
 <!-- CONNECT -->
 <h2 align="center">Connect</h2>
 
