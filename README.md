@@ -30,15 +30,6 @@
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-<h2 align="center">Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ny-noe-e&radius=16&theme=react&area=true&order=5" height="300" alt="activity graph"/>
-</div>
-
-<br/>
-
 <!-- CONNECT -->
 <h2 align="center">Connect</h2>
 
