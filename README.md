@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:1a0b2e,100:6d28d9&height=220&section=header&text=Noe&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <!-- HEADER -->
 <div align="center">
-  <h1>Noe</h1>
   <h3>Software Engineer Apprentice @ Google</h3>
   <p>Building. Learning. Improving.</p>
 </div>
