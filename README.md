@@ -1,8 +1,7 @@
+<div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:1a0b2e,100:6d28d9&height=220&section=header&text=Noe&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<!-- HEADER -->
 <div align="center">
   <h3>Software Engineer Apprentice @ Google</h3>
   <p>Building. Learning. Improving.</p>
@@ -20,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=java,git,github,vscode,html,css&perline=10" height="48" alt="skills"/>
 </div>
 
-<!-- ABOUT -->
 <h2 align="center">About Me</h2>
 
 <div align="center">
@@ -37,11 +35,12 @@
 </div>
 
 </div>
-<!-- CONNECT -->
+
 <h2 align="center">Connect</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/noe-e-88120038b">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40"/>
   </a>
+</div>
 </div>
