@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:1a0b2e,100:6d28d9&height=220&section=header&text=Noe&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&EA4335color=0:4285F4&,55:1a0b2e,100:6d28d9&height=220&section=header&text=Noe&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 <div align="center">
   <h3>Software Engineer Apprentice @ Google</h3>
