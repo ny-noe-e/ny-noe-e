@@ -8,13 +8,14 @@
 <br/>
 
 <div align="center">
-  <img width="15"/>
-  <a href="https://www.java.com/de/">
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="95" alt="C"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ny-noe-e&style=for-the-badge&color=000000" height="28" alt="profile views"/>
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,html,css&perline=10" height="48" alt="skills"/>
+</div>
 
 <!-- ABOUT -->
 <h2 align="center">About Me</h2>
@@ -25,6 +26,18 @@
 🚀 Software Engineer Apprentice at Google  
 💻 Focused on Java and expanding into new technologies  
 📈 Constantly improving and building real-world projects  
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ny-noe-e&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" height="180" alt="top languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ny-noe-e&theme=github_dark" height="190" alt="profile details"/>
+</div>
 
 </div>
 <!-- CONNECT -->
