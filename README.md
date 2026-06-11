@@ -33,12 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ny-noe-e&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" height="180" alt="top languages"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ny-noe-e&theme=github_dark" height="190" alt="profile details"/>
-</div>
-
 </div>
 <!-- CONNECT -->
 <h2 align="center">Connect</h2>
