@@ -8,7 +8,7 @@
 
   <br/><br/>
 
-  <img src="https://skillicons.dev/icons?i=java,git,html,css&perline=10" height="48" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css&perline=10" height="48" alt="skills"/>
 
   <br/><br/>
 
