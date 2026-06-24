@@ -16,7 +16,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1&pause=999999&color=555555&center=true&vCenter=true&width=700&lines=%F0%9F%87%A8%F0%9F%87%AD+Based+in+Switzerland;%F0%9F%9A%80+Software+Engineer+Apprentice+at+Google;%F0%9F%92%BB+Focused+on+Java+and+expanding+into+new+technologies;%F0%9F%93%88+Constantly+improving+and+building+real-world+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1&pause=999999&color=555555&center=true&vCenter=true&width=700&lines=+Based+in+Switzerland;%F0%9F%9A%80+Software+Engineer+Apprentice+at+Google;%F0%9F%92%BB+Focused+on+Java+and+expanding+into+new+technologies;%F0%9F%93%88+Constantly+improving+and+building+real-world+projects" />
 
   <br/>
 
