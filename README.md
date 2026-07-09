@@ -20,10 +20,6 @@
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ny-noe-e&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=555555&text_color=555555" height="180" alt="top languages"/>
-
-  <br/>
-
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=1&pause=999999&color=555555&center=true&vCenter=true&width=300&lines=Connect" />
 
   <br/>
